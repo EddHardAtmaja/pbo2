@@ -18,6 +18,7 @@ public class ProjectGit {
         // TODO code application logic here
         System.out.println("hallo");
         System.out.println("Saya");
+        System.out.println("LAGI");
     }
     
 }
